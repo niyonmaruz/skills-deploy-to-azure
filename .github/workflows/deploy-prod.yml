@@ -12,7 +12,7 @@ env:
   ###############################################
   DOCKER_IMAGE_NAME: niyonmaruz-azure-ttt
   AZURE_WEBAPP_NAME: niyonmaruz-ttt-app
-  ###############################################
+  ################################################
 
 jobs:
   build:
