@@ -9,9 +9,9 @@ env:
   AZURE_RESOURCE_GROUP: cd-with-actions
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: japaneast
-  ################################################
-  ### Replace <username> with GitHub username ####
-  ################################################
+  ###############################################
+  ### Replace <username> with GitHub username ###
+  ###############################################
   AZURE_WEBAPP_NAME: niyonmaruz-ttt-app
 
 jobs:
